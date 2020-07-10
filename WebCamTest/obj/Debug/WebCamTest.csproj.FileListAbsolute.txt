@@ -38,3 +38,7 @@ C:\Users\Tom_PC\Source\Repos\Tom-HJ\Test_Webcam\WebCamTest\obj\Debug\WebCamTest.
 C:\Users\Tom_PC\Source\Repos\Tom-HJ\Test_Webcam\WebCamTest\obj\Debug\WebCamTest.csproj.CopyComplete
 C:\Users\Tom_PC\Source\Repos\Tom-HJ\Test_Webcam\WebCamTest\obj\Debug\WebCamTest.exe
 C:\Users\Tom_PC\Source\Repos\Tom-HJ\Test_Webcam\WebCamTest\obj\Debug\WebCamTest.pdb
+C:\Users\Tom_PC\source\repos\Tom-HJ\Test_Webcam\WebCamTest\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Tom_PC\source\repos\Tom-HJ\Test_Webcam\WebCamTest\bin\Debug\OpenCvSharp.dll
+C:\Users\Tom_PC\source\repos\Tom-HJ\Test_Webcam\WebCamTest\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Tom_PC\source\repos\Tom-HJ\Test_Webcam\WebCamTest\bin\Debug\OpenCvSharp.UserInterface.dll
